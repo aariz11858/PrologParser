@@ -1,0 +1,4 @@
+Contributions:
+Mohamed Alshafai and Ariel Justine Navarro Panopio did the syntax analyzer.
+
+Aariz Faridi and Waleed Abdalhadi did the lexical analyzer.

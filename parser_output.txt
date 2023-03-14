@@ -1,0 +1,59 @@
+Program 1.txt:
+Program ran correctly!
+-------------------------------------------------------------------------------------------
+
+Program 2.txt:
+Program ran correctly!
+-------------------------------------------------------------------------------------------
+
+Program 3.txt:
+Program ran correctly!
+-------------------------------------------------------------------------------------------
+
+Program 4.txt:
+Error missing right parenthesis of predicate at line 5
+Program ended with 1 error
+-------------------------------------------------------------------------------------------
+
+Program 5.txt:
+Error missing atom predicate at line 3
+Error missing atom predicate at line 3
+Program ended with 2 errors
+-------------------------------------------------------------------------------------------
+
+Program 6.txt:
+Error no matching term at line 1
+Error no matching term at line 1
+Error no matching term at line 2
+Error no matching term at line 2
+Error no matching term at line 3
+Error missing right parenthesis of predicate at line 3
+Error no matching term at line 3
+Error missing right parenthesis of predicate at line 3
+Error no matching term at line 7
+Error no matching term at line 7
+Error no matching term at line 7
+Error no matching term at line 7
+Error no matching term at line 7
+Error no matching term at line 7
+Error no matching term at line 8
+Error missing right parenthesis of predicate at line 8
+Error no matching term at line 8
+Error no matching term at line 8
+Error no matching term at line 9
+Error no matching term at line 9
+Error no matching term at line 10
+Error no matching term at line 10
+Error no matching term at line 10
+Error missing atom predicate at line 10
+Error no matching term at line 10
+Error no matching term at line 11
+Error no matching term at line 11
+Error no matching term at line 11
+Error missing atom predicate at line 11
+Error no matching term at line 11
+Error no matching term at line 12
+Error missing right parenthesis of predicate at line 12
+Program ended with 32 errors
+-------------------------------------------------------------------------------------------
+
